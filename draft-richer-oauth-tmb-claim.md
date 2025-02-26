@@ -37,9 +37,9 @@ author:
     email: dean@thesax.es
 
 normative:
-- RFC9449
-- RFC8705
-- RFC7800
+  RFC9449:
+  RFC8705:
+  RFC7800:
 
 informative:
 
@@ -64,7 +64,7 @@ The token meta-key binding "tmb" claim is passed in an OAuth token request param
 
 The same parameter can be used in a token exchange request, with the same results.
 
-If the issued token is a JWT, the value of the "tmb" claim is copied to the "cnf" claim of the resulting token. If the token is introspected, the value of "tmb" is returned in the "cnf" claim of the introspection response. 
+If the issued token is a JWT, the value of the "tmb" claim is copied to the "cnf" claim of the resulting token. If the token is introspected, the value of "tmb" is returned in the "cnf" claim of the introspection response.
 
 The requester SHOULD give the resulting token to the holder of the key represented in the "tmb" claim.
 
