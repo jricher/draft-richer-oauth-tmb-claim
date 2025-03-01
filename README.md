@@ -1,6 +1,6 @@
-# TODO - Your title
+# Trust me, Bruh
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Deferred Key Binding for OAuth".
 
 * [Editor's Copy](https://jricher.github.io/draft-richer-oauth-tmb-claim/#go.draft-richer-oauth-tmb-claim.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-richer-oauth-tmb-claim)
