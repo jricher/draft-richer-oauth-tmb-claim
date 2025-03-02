@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-02-27T00:45:12.963107+00:00",
+  "timestamp": "2025-03-02T00:49:47.924206+00:00",
   "repo": "jricher/draft-richer-oauth-tmb-claim",
   "labels": [
     {
@@ -47,8 +47,52 @@
       "name": "wontfix",
       "description": "This will not be worked on",
       "color": "ffffff"
+    },
+    {
+      "name": "bruh",
+      "description": "",
+      "color": "E60A3B"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDON_-wos6r4jM8",
+      "title": "bro vs bruh",
+      "url": "https://github.com/jricher/draft-richer-oauth-tmb-claim/issues/1",
+      "state": "OPEN",
+      "author": "bc-pi",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "I understand wanting to use terminology relevant to today's young people but am not fully convinced of the appropriateness of `bruh` rather than the more traditional `bro` \n\nDid you even do a consensus call, bruh? ",
+      "createdAt": "2025-02-27T07:58:42Z",
+      "updatedAt": "2025-02-27T14:56:38Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "jricher",
+          "authorAssociation": "OWNER",
+          "body": "Trust me, it's bruh",
+          "createdAt": "2025-02-27T14:40:41Z",
+          "updatedAt": "2025-02-27T14:40:41Z"
+        },
+        {
+          "author": "bc-pi",
+          "authorAssociation": "COLLABORATOR",
+          "body": "> Trust me, it's bruh\n\nI think you meant to say, \"Trust me, it's bruh, bruh.\" ",
+          "createdAt": "2025-02-27T14:41:46Z",
+          "updatedAt": "2025-02-27T14:41:46Z"
+        },
+        {
+          "author": "bc-pi",
+          "authorAssociation": "COLLABORATOR",
+          "body": "or \"Trust me, bruh, it's bruh.\"",
+          "createdAt": "2025-02-27T14:56:37Z",
+          "updatedAt": "2025-02-27T14:56:37Z"
+        }
+      ]
+    }
+  ],
   "pulls": []
 }
