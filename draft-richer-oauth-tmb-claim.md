@@ -85,3 +85,16 @@ This document registers the "tmb" claim to the IANA JWT Claims registry and OAut
 {:numbered="false"}
 
 TODO acknowledge.
+
+# Advance Praise for the Token Meta-key Binding Claim
+{:unnumbered}
+
+Critics are already raving about [[this specification]]:
+
+> "This will be the spec to bind and blind us all" -- Steinar Noem, Partner
+
+> "Hits a little different" -- Justin Richer, CTO and Author
+
+> "Bruh" -- Brian Campbell, Nosy AF
+
+> "Never sit next to BC" -- Dean Saxe, Aran Wool Sweater Enthusiast
