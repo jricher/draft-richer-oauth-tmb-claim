@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-03-02T00:49:47.924206+00:00",
+  "timestamp": "2025-03-04T00:46:23.785991+00:00",
   "repo": "jricher/draft-richer-oauth-tmb-claim",
   "labels": [
     {
@@ -94,5 +94,32 @@
       ]
     }
   ],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 2,
+      "id": "PR_kwDON_-wos6NOC7p",
+      "title": "Advance Praise",
+      "url": "https://github.com/jricher/draft-richer-oauth-tmb-claim/pull/2",
+      "state": "OPEN",
+      "author": "bc-pi",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-03-03T22:51:52Z",
+      "updatedAt": "2025-03-03T22:51:53Z",
+      "baseRepository": "jricher/draft-richer-oauth-tmb-claim",
+      "baseRefName": "main",
+      "baseRefOid": "d6f6615faec4958bd1c26a1a0f9b2e89a7c7f731",
+      "headRepository": "jricher/draft-richer-oauth-tmb-claim",
+      "headRefName": "blurbs",
+      "headRefOid": "e8dac1d1d07b4a98d68b075e70202641945ee603",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
