@@ -32,9 +32,9 @@ author:
     organization: Ping Identity
     email: bcampbell@pingidentity.com
  -
-    fullname: Dean Saxe
+    fullname: Dean H. Saxe
     organization: Beyond Identity
-    email: dean@thesax.es
+    email: dean.saxe@beyondidentity.com
 
 normative:
   RFC9449:
