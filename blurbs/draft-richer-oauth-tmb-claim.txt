@@ -5,10 +5,10 @@
 Web Authorization Protocol                                     J. Richer
 Internet-Draft                                       Bespoke Engineering
 Intended status: Informational                               B. Campbell
-Expires: 4 September 2025                                  Ping Identity
+Expires: 9 September 2025                                  Ping Identity
                                                                  D. Saxe
                                                          Beyond Identity
-                                                            3 March 2025
+                                                            8 March 2025
 
 
                      Deferred Key Binding for OAuth
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 4 September 2025.
+   This Internet-Draft will expire on 9 September 2025.
 
 Copyright Notice
 
@@ -169,7 +169,7 @@ Advance Praise for the Token Meta-key Binding Claim
    Critics are already raving about [[this specification]]:
 
       "This will be the spec to bind and blind us all" -- Steinar Noem,
-      Partner
+      Partner in a global consulting and advisory company
 
       "Hits a little different" -- Justin Richer, CTO and Author
 
