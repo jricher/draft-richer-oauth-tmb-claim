@@ -91,7 +91,7 @@ TODO acknowledge.
 
 Critics are already raving about [[this specification]]:
 
-> "This will be the spec to bind and blind us all" -- Steinar Noem, Partner
+> "This will be the spec to bind and blind us all" -- Steinar Noem, Partner in a global consulting and advisory company
 
 > "Hits a little different" -- Justin Richer, CTO and Author
 
