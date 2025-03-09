@@ -5,10 +5,10 @@
 Web Authorization Protocol                                     J. Richer
 Internet-Draft                                       Bespoke Engineering
 Intended status: Informational                               B. Campbell
-Expires: 30 August 2025                                    Ping Identity
-                                                                 D. Saxe
+Expires: 10 September 2025                                 Ping Identity
+                                                              D. H. Saxe
                                                          Beyond Identity
-                                                        26 February 2025
+                                                            9 March 2025
 
 
                      Deferred Key Binding for OAuth
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 30 August 2025.
+   This Internet-Draft will expire on 10 September 2025.
 
 Copyright Notice
 
@@ -175,6 +175,6 @@ Authors' Addresses
    Email: bcampbell@pingidentity.com
 
 
-   Dean Saxe
+   Dean H. Saxe
    Beyond Identity
-   Email: dean@thesax.es
+   Email: dean.saxe@beyondidentity.com
