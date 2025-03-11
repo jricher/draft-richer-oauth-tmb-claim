@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-03-09T00:40:31.610981+00:00",
+  "timestamp": "2025-03-11T00:46:45.729190+00:00",
   "repo": "jricher/draft-richer-oauth-tmb-claim",
   "labels": [
     {
@@ -147,26 +147,42 @@
       "id": "PR_kwDON_-wos6N4jWO",
       "title": "fixed name, email address",
       "url": "https://github.com/jricher/draft-richer-oauth-tmb-claim/pull/3",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "deansaxe",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "trust me bruh, this is a good PR.",
       "createdAt": "2025-03-08T23:49:54Z",
-      "updatedAt": "2025-03-08T23:49:55Z",
+      "updatedAt": "2025-03-09T14:40:58Z",
       "baseRepository": "jricher/draft-richer-oauth-tmb-claim",
       "baseRefName": "main",
       "baseRefOid": "d6f6615faec4958bd1c26a1a0f9b2e89a7c7f731",
       "headRepository": "jricher/draft-richer-oauth-tmb-claim",
       "headRefName": "deansaxe-patch-1",
       "headRefOid": "bffdf2b9dd0baced07a5e1e2a2f5f7bbdcb090a6",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-03-09T14:40:58Z",
+      "mergedAt": "2025-03-09T14:40:58Z",
+      "mergedBy": "jricher",
+      "mergeCommit": {
+        "oid": "89af5722fad8de3168dba4b6b151e5123eb0d51c"
+      },
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDON_-wos6fHHuD",
+          "commit": {
+            "abbreviatedOid": "bffdf2b"
+          },
+          "author": "jricher",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-03-09T14:40:50Z",
+          "updatedAt": "2025-03-09T14:40:50Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
