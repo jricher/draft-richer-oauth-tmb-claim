@@ -33,8 +33,8 @@ author:
     email: bcampbell@pingidentity.com
  -
     fullname: Dean H. Saxe
-    organization: Beyond Identity
-    email: dean.saxe@beyondidentity.com
+    organization: Full Frontal Nerdity Industries
+    email: dean@thesax.es
 
 normative:
   RFC9449:
