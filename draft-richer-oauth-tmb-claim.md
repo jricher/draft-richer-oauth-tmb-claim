@@ -76,7 +76,9 @@ The security of this specification is entirely based on trust. If you have trust
 
 # IANA Considerations
 
-This document registers the "tmb" claim to the IANA JWT Claims registry and OAuth request parameter.
+This document registers the "tmb" claim to the IANA JWT Claims registry and OAuth request parameter.  
+
+**Please Note:** If this document advances to a working group draft, we will provide the necessary IANA registry information.  Until then, no IANA actions are required.
 
 
 --- back
